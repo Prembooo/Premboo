@@ -1,3 +1,2 @@
 # Premchandra Lingkhim
-
-![Prem's Github stats](https://github-readme-stats.vercel.app/api?username=Premboo&show_icons=true&theme=radical)
+[![Prem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premboo)](https://github-readme-stats.vercel.app/api?username=Premboo&show_icons=true&theme=radical)
